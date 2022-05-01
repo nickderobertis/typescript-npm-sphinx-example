@@ -15,11 +15,13 @@
     {
       "name": "copier-typescript-npm-sphinx",
       "data": {
-        "author": "Nick DeRobertis",
-        "full_name": "typescript-npm-sphinx-example",
-        "main_branch_name": "main",
         "package_name": "typescript-npm-sphinx-example",
-        "short_description": "Example template output for copier-typescript-npm-sphinx"
+        "repo_name": "typescript-npm-sphinx-example",
+        "full_name": "typescript-npm-sphinx-example",
+        "short_description": "Example template output for copier-typescript-npm-sphinx",
+        "main_branch_name": "main",
+        "author": "Nick DeRobertis",
+        "repo_username": "nickderobertis"
       },
       "version": "d071da3dd5d0b6cb47339c9811d84a03",
       "add_mode": "local",

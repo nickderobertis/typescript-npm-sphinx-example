@@ -2,7 +2,7 @@
   "template_sources": [
     {
       "name": "copier-typescript-npm-sphinx",
-      "path": "../../home/runner/work/copier-typescript-npm-sphinx/copier-typescript-npm-sphinx/copier-typescript-npm-sphinx",
+      "path": "../copier-typescript-npm-sphinx",
       "type": "copier",
       "version": "d071da3dd5d0b6cb47339c9811d84a03",
       "git_url": null,

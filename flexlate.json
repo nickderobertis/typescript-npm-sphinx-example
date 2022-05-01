@@ -4,7 +4,7 @@
       "name": "copier-typescript-npm-sphinx",
       "path": "../copier-typescript-npm-sphinx",
       "type": "copier",
-      "version": "ee41a103862fcfb8585c16f8cde5f0b8",
+      "version": "13198bc8d6ea499e7e5e2fa74d35c199",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -23,7 +23,7 @@
         "author": "Nick DeRobertis",
         "repo_username": "nickderobertis"
       },
-      "version": "ee41a103862fcfb8585c16f8cde5f0b8",
+      "version": "13198bc8d6ea499e7e5e2fa74d35c199",
       "add_mode": "local",
       "root": "."
     }

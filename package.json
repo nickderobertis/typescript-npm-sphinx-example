@@ -2,13 +2,13 @@
   "name": "typescript-npm-sphinx-example",
   "version": "0.0.0-development",
   "description": "Example template output for copier-typescript-npm-sphinx",
-  "main": "./lib/src/index.js",
+  "main": "./dist/src/index.js",
   "files": [
-    "lib/**/*"
+    "dist/**/*"
   ],
   "scripts": {
     "build": "tsc",
-    "clean": "rm -rf ./lib/",
+    "clean": "rm -rf ./dist/",
     "coverage": "codecov",
     "lint": "eslint ./src/ --fix",
     "prepare": "husky install",

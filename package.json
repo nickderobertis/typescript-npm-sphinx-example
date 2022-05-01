@@ -45,6 +45,9 @@
     "url": "https://github.com/nickderobertis/typescript-npm-sphinx-example/issues"
   },
   "homepage": "https://github.com/nickderobertis/typescript-npm-sphinx-example#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.24",

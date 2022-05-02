@@ -2,10 +2,17 @@
   "name": "typescript-npm-sphinx-example",
   "version": "0.0.0-development",
   "description": "Example template output for copier-typescript-npm-sphinx",
-  "main": "./dist/src/index.js",
+  "main": "./dist/typescript-npm-sphinx-example.umd.js",
+  "module": "./dist/typescript-npm-sphinx-example.es.js",
   "files": [
     "dist/**/*"
   ],
+  "exports": {
+    ".": {
+      "import": "./dist/typescript-npm-sphinx-example.es.js",
+      "require": "./dist/typescript-npm-sphinx-example.umd.js"
+    }
+  },
   "scripts": {
     "build": "tsc && vite build",
     "coverage": "codecov",

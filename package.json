@@ -4,6 +4,7 @@
   "description": "Example template output for copier-typescript-npm-sphinx",
   "main": "./dist/typescript-npm-sphinx-example.umd.js",
   "module": "./dist/typescript-npm-sphinx-example.es.js",
+  "types": "./dist/src/index.d.ts",
   "files": [
     "dist/**/*"
   ],

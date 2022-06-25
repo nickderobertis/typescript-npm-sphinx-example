@@ -2,9 +2,9 @@
   "template_sources": [
     {
       "name": "copier-typescript-npm-sphinx",
-      "path": "../copier-typescript-npm-sphinx",
+      "path": "/home/runner/work/copier-typescript-npm-sphinx/copier-typescript-npm-sphinx/copier-typescript-npm-sphinx",
       "type": "copier",
-      "version": "7309f18599963aeb85ac776d09e78d10",
+      "version": "7285282239248d06ed9cea7074d77f0f",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -22,9 +22,15 @@
         "main_branch_name": "main",
         "author": "Nick DeRobertis",
         "repo_username": "nickderobertis",
-        "package_filename": "typescript-npm-sphinx-example"
+        "package_filename": "typescript-npm-sphinx-example",
+        "topics": [
+          "TypeScript",
+          "npm",
+          "Sphinx",
+          "Multi-word Example"
+        ]
       },
-      "version": "7309f18599963aeb85ac776d09e78d10",
+      "version": "7285282239248d06ed9cea7074d77f0f",
       "add_mode": "local",
       "root": "."
     }

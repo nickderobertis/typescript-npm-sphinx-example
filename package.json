@@ -41,15 +41,10 @@
     "node": ">=12.0"
   },
   "keywords": [
-    "boilerplate",
-    "template",
-    "typescript",
-    "vscode",
-    "jest",
-    "husky",
-    "commitizen",
-    "semantic-release",
-    "codecov"
+      "TypeScript",
+      "npm",
+      "Sphinx",
+      "Multi-word Example"
   ],
   "bugs": {
     "url": "https://github.com/nickderobertis/typescript-npm-sphinx-example/issues"

@@ -4,7 +4,7 @@
       "name": "copier-typescript-npm-sphinx",
       "path": "/home/runner/work/copier-typescript-npm-sphinx/copier-typescript-npm-sphinx/copier-typescript-npm-sphinx",
       "type": "copier",
-      "version": "7285282239248d06ed9cea7074d77f0f",
+      "version": "1cd1042d57f5c4e434ae4b1412f18a4a",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -30,7 +30,7 @@
           "Multi-word Example"
         ]
       },
-      "version": "7285282239248d06ed9cea7074d77f0f",
+      "version": "1cd1042d57f5c4e434ae4b1412f18a4a",
       "add_mode": "local",
       "root": "."
     }
